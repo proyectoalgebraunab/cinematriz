@@ -1,0 +1,20 @@
+CARPETA DE PÓSTERS DE CINEMATRIZ
+
+Ponga aquí las imágenes con estos nombres exactos (minúsculas, sin tildes).
+Formatos aceptados: .jpg, .jpeg, .png o .webp. Formato vertical (2:3), idealmente 600x900 px.
+
+interestelar.jpg
+matrix.jpg
+avengers-endgame.jpg
+rapidos-y-furiosos.jpg
+el-rey-leon.jpg
+toy-story.jpg
+coco.jpg
+titanic.jpg
+diario-de-una-pasion.jpg
+el-conjuro.jpg
+avatar.jpg
+intensa-mente.jpg
+
+Si falta alguna, la app muestra la ilustración generada para esa película.
+Usen imágenes que tengan derecho a publicar.
